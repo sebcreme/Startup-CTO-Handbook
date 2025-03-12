@@ -2786,7 +2786,7 @@ In most cases, I find that when a blip trial fails, it fails relatively early on
 
 ### Boring Technology
 
-Boring Technology is a phrase coined by Dan McKinley and outlined at ctohb.com/boring. The key idea is that your team's job is to deliver functionality to support the business, and most of the time that doesn't depend on using fancy new tools. In fact, using something that's not boring often has many hidden costs, and only if your team is fully cognizant of those costs and believes the benefits are larger, should the new tool be adopted. As Boring Technology describes it, total cost = maintenance costvelocity benefit. Some hidden costs to consider:
+Boring Technology is a phrase coined by Dan McKinley and outlined at [ctohb.com/boring](https://ctohb.com/boring). The key idea is that your team's job is to deliver functionality to support the business, and most of the time that doesn't depend on using fancy new tools. In fact, using something that's not boring often has many hidden costs, and only if your team is fully cognizant of those costs and believes the benefits are larger, should the new tool be adopted. As Boring Technology describes it, total cost = maintenance costvelocity benefit. Some hidden costs to consider:
 
 * Incomplete, inaccurate, or immature documentation
 * Not fully developed ecosystems around the tool/technology, including SDKs and integrations with other tools
